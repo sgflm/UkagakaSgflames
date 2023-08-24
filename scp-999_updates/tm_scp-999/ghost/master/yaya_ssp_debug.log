@@ -1,0 +1,41 @@
+// AYA request log
+// load time: 2023/08/23 20:57:00
+
+// response (Execution time : 0[ms])
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+// request
+GET SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+Sender: SSP
+SenderType: internal
+Status: balloon(0=0/1=0)
+ID: OnMinuteChange
+Reference0: 241
+Reference1: 0
+Reference2: 0
+Reference3: 1
+Reference4: 0
+
+
+// response (Execution time : 0[ms])
+SHIORI/3.0 204 No Content
+Charset: UTF-8
+
+
+// request
+NOTIFY SHIORI/3.0
+Charset: UTF-8
+SecurityLevel: local
+Sender: SSP
+SenderType: internal
+Status: balloon(0=0/1=0)
+ID: enable_log
+Reference0: 0
+
+
+// unload time: 2023/08/23 20:57:01
+
